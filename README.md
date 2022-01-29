@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there! 
+## I'm Miguel Silva, a freelancer Front-End-Dev. 👋👋👋
 
-- 🌱 I’m currently learning Javascript ES6, Tawilwind CSS, 
-- 📫 How to reach me: migdrum@gmail.com
+- 📓 Self-learning;
+- 👨‍💻 Looking through front-end developer jobs;
+- 🌱 Learning Javascript ES6 and Tawilwind CSS;
+- 📫 Reach me : migdrum@gmail.com;
 
 
