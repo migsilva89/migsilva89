@@ -6,7 +6,7 @@
 - 🌱 Learning Javascript ES6, VueJs and React with Tawilwind CSS;
 
 <div>
-  <a href="https://github.com/migsilva89/migsilva89/">
+  <a href="https://github.com/migsilva89/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=migsilva89&theme=dark&show_icons=true">
   <img height="150em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=migsilva89&theme=dark&show_icons=true">
 </div>
