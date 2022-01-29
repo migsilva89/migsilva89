@@ -1,8 +1,8 @@
 ### Hi there! 
-## I'm Miguel Silva, a freelancer Front-End-Dev. 👋👋👋
+## I'm Miguel Silva, a freelancer Frontend-Dev. 👋👋👋
 
 - 📓 Self-learning;
-- 👨‍💻 Looking through front-end developer jobs;
+- 👨‍💻 Looking through frontend developer jobs;
 - 🌱 Learning Javascript ES6, VueJs and React with Tawilwind CSS;
 
 <div>
