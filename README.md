@@ -25,6 +25,6 @@
 <br>
 <br>
 
-🛠️ For work and collab: migdrum@gmail.com 🖥
+🛠️ For work and collab: migdrum@gmail.com  🖥
 
 
