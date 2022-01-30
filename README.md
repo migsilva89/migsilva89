@@ -3,7 +3,7 @@
 
 - 📓 Self-learning;
 - 👨‍💻 Looking through frontend developer jobs;
-- 🌱 Learning Javascript ES6, VueJs and React with Tawilwind CSS;
+- 🌱 Learning VueJs and React with Tawilwind CSS;
 
 <div>
   <a href="https://github.com/migsilva89/">
