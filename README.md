@@ -3,7 +3,7 @@
 
 - 📓 Self-learning;
 - 👨‍💻 Looking through frontend developer jobs;
-- 🌱 Learning VueJs and React with Tawilwind CSS;
+- 🌱 Learning HTML, CSS, Javascript, VueJs;
 
 <div>
   <a href="https://github.com/migsilva89/">
@@ -18,7 +18,7 @@
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
-  <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+<!--   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> -->
   <a/>
 </div>
 
