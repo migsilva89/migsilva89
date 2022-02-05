@@ -29,5 +29,5 @@
 
 🛠️ For work and collab: migdrum@gmail.com  🖥
 
-More Projects: https://code-camp-responsive-wd-ld9d03x7e-migsilva89.vercel.app/
+📂 More Projects: https://code-camp-responsive-wd-ld9d03x7e-migsilva89.vercel.app/
 
