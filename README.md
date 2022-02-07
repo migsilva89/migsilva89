@@ -3,7 +3,7 @@
 
 - 📓 Self-learning;
 - 👨‍💻 Looking through frontend developer jobs;
-- 🌱 Learning HTML, CSS, Javascript, VueJs;
+- 🌱 Learning Javascript, NodeJs, webpack, VueJs;
 
 <div>
   <a href="https://github.com/migsilva89/">
