@@ -19,6 +19,8 @@
   <img align="center" alt="MIG-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MIG-Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg">
+  
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
 <!--   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> -->
   <a/>
