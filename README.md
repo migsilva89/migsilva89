@@ -2,8 +2,7 @@
 ## I'm Miguel Silva, a freelancer Frontend-Dev. 👋👋👋
 
 - 📓 Self-learning;
-- 👨‍💻 Looking through frontend developer jobs/internships;
-- 🌱 Learning Javascript, NodeJs, webpack, VueJs;
+- 🌱 Learning Javascript, NodeJs, VueJs;
 
 <div>
   <a href="https://github.com/migsilva89/">
