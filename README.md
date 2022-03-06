@@ -3,7 +3,7 @@
 
 After many years of investing in myself as an event organizer and DJ/Producer I always had a special connection to the digital world, I started to do some simple front-end work to better understand how everything works, when I discovered my passion for web development.
 
-- 📓 Self-learning;
+- 📓 Self-taught;
 - 📂 Atm working with: HTML5, CSS3, Javascript, Bootstraap & TailwindCSS;
 - 🌱 Learning Javascript, NodeJs, VueJs;
 
