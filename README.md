@@ -1,7 +1,7 @@
 ### Hi there! 
 ## I'm Miguel Silva, a freelancer Frontend-Dev. 👋👋👋
 
-After many years of investing in myself as an event organizer and DJ/Producer, I decided to become a web developer.
+After many years of investing in myself as an event organizer and DJ/Producer I always had a special connection to the digital world, I started to do some simple front-end work to better understand how everything works, when I discovered my passion for web development.
 
 - 📓 Self-learning;
 - 📂 Atm working with: HTML5, CSS3, Javascript, Bootstraap & TailwindCSS;
