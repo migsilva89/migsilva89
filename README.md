@@ -1,7 +1,10 @@
 ### Hi there! 
 ## I'm Miguel Silva, a freelancer Frontend-Dev. 👋👋👋
 
+After many years of investing in myself as an event organizer and DJ/Producer, I decided to become a web developer.
+
 - 📓 Self-learning;
+- 📂 Atm working with: HTML5, CSS3, Javascript, Bootstraap & TailwindCSS;
 - 🌱 Learning Javascript, NodeJs, VueJs;
 
 <div>
