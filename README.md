@@ -1,7 +1,13 @@
 ### Hi there! 
 ## I'm Miguel Silva, a Self-taught Web-Dev. 👋👋👋
 
-After many years of investing in myself as an event organizer and DJ/Producer I always had a special connection to the digital world, I started to do some simple front-end work to better understand how everything works, when I discovered my passion for web development.
+After many years of investing in myself as an event organizer and DJ/Producer, I decided to move abroad and start my career in the hospitality industry. It's been a fantastic journey where I've learned a lot and met some amazing people, but as I always had a special connection to the digital world, I decided to switch careers and pursue a longtime dream. 
+
+At the moment I am balancing my job as an Operational manager with studying.
+I know how to work with Html, CSS, TailwindCss, Javascript, and I'm learning Node.Js and Vue.js.
+
+My goal is to become a Full-stack web developer specialist.
+I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
 - 📓 Self-taught;
 - 📂 Atm working with: HTML5, CSS3, Javascript, Bootstraap & TailwindCSS;
