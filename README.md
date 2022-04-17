@@ -25,10 +25,10 @@ I consider myself a hard worker person, who learns easily. I have a passion for 
   <img align="center" alt="MIG-TAIL" height="40" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="MIG-BOOT" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
   <img align="center" alt="MIG-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MIG-NPM" height="40" width="60" src="https://i.ibb.co/P9KGFCq/1974423.png">
-  
+  <img align="center" alt="MIG-NODE-JS" height="40" width="60" src="https://i.ibb.co/42QJ0XX/nodejs-1-logo-png-transparent.png">
+  <img align="center" alt="MIG-NPM" height="40" width="70" src="https://i.ibb.co/P9KGFCq/1974423.png">
   <img align="center" alt="MIG-VUE" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
-<!--   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> -->
+  
   <a/>
 </div>
 
