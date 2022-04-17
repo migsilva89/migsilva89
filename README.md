@@ -7,8 +7,8 @@ My goal is to become a Full-stack web developer specialist.
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
 - 📓 Self-taught;
-- 📂 Atm working with: HTML5, CSS3, Javascript, Bootstraap & TailwindCSS;
-- 🌱 Learning Javascript, NodeJs, VueJs;
+- 📂 Atm working with: HTML5, CSS3, SASS, Bootstraap, TailwindCSS, Javascript;
+- 🌱 Learning NodeJs, VueJs;
 
 <div>
   <a href="https://github.com/migsilva89/">
@@ -21,9 +21,10 @@ I consider myself a hard worker person, who learns easily. I have a passion for 
 <div style="display: inline_block"><br>
   <img align="center" alt="MIG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MIG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MIG-CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+  <img align="center" alt="MIG-TAIL" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img align="center" alt="MIG-BOOT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="MIG-Js" height="30" width="40" src="https://i.ibb.co/Mc06nkn/sass-1-logo-png-transparent.png">
 <!--   <img align="center" alt="MIG-Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"> -->
   
   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
