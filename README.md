@@ -21,13 +21,13 @@ I consider myself a hard worker person, who learns easily. I have a passion for 
 <div style="display: inline_block"><br>
   <img align="center" alt="MIG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MIG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MIG-SASS" height="30" width="40" src="https://i.ibb.co/Mc06nkn/sass-1-logo-png-transparent.png">
   <img align="center" alt="MIG-TAIL" height="30" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
   <img align="center" alt="MIG-BOOT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
-  <img align="center" alt="MIG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="MIG-Js" height="30" width="40" src="https://i.ibb.co/Mc06nkn/sass-1-logo-png-transparent.png">
+  <img align="center" alt="MIG-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="MIG-Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg"> -->
   
-  <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
+  <img align="center" alt="MIG-VUE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
 <!--   <img align="center" alt="MIG-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> -->
   <a/>
 </div>
