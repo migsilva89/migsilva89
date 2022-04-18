@@ -28,7 +28,7 @@ I consider myself a hard worker person, who learns easily. I have a passion for 
   <img align="center" alt="MIG-NODE-JS" height="40" width="60" src="https://i.ibb.co/42QJ0XX/nodejs-1-logo-png-transparent.png">
   <img align="center" alt="MIG-NPM" height="40" width="70" src="https://i.ibb.co/P9KGFCq/1974423.png">
   <img align="center" alt="MIG-VUE" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
-  
+  <img align="center" alt="MIG-NPM" height="40" width="40" src="https://i.ibb.co/yB8PhGz/5847f981cef1014c0b5e48be.png">
   <a/>
 </div>
 
