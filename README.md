@@ -1,5 +1,5 @@
 ### Hi there! 
-## I'm Miguel Silva, a Self-taught Web-Dev. 👋👋👋
+## I'm Miguel Silva, and I wanna become a Full Stack Dev. 👋👋👋
 
 I decided to switch careers and pursue a longtime dream. 
 
