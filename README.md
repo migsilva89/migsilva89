@@ -6,7 +6,7 @@ I decided to switch careers and pursue a longtime dream.
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
 - 📓 Self-taught;
-- 📂 Atm working with: HTML5, CSS3, SASS, Bootstraap, TailwindCSS, Javascript;
+- 📂 Atm working with: HTML5, CSS3, SASS, Bootstraap, TailwindCSS w/PostCSS, Javascript;
 - 🌱 Learning NodeJs, Express, VueJs;
 
 <!-- <div>
