@@ -3,7 +3,6 @@
 
 I decided to switch careers and pursue a longtime dream. 
 
-My goal is to become a Full-stack web developer specialist.
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
 - 📓 Self-taught;
