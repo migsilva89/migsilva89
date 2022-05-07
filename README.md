@@ -1,7 +1,5 @@
 ### Hi there! 
-## I'm Miguel Silva, and I wanna become a Full Stack Dev. 👋👋👋
-
-I decided to switch careers and pursue a longtime dream. 
+## I'm Miguel Silva. 👋👋👋
 
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
