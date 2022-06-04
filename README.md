@@ -3,7 +3,7 @@
 
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
-- 📓 Self-taught;
+- 📓 Full Stack Bootcamp at FlagPT;
 - 📂 Atm working with: HTML5, CSS3, SASS, Bootstraap, TailwindCSS w/PostCSS, Javascript;
 - 🌱 Learning NodeJs, Express, VueJs;
 
