@@ -1,40 +1,47 @@
-### Hi there! 
-## I'm Miguel Silva. 👋👋👋
+<br clear="both">
 
-I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
+<h1 align="left">I'm Miguel Silva ✌️</h1>
 
-- 📓 Full Stack Bootcamp at FlagPT;
-- 📂 Atm working with: HTML5, CSS3, SASS, Bootstraap, TailwindCSS w/PostCSS, Javascript;
-- 🌱 Learning NodeJs, Express, VueJs;
+###
 
-<!-- <div>
-  <a href="https://github.com/migsilva89/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=migsilva89&show_icons=true&include_all_commits=true&theme=slateorange&                hide_border=true&count_private=true">
-
-  <img height="150em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migsilva89&layout=compact&theme=slateorange&include_all_commits=true&count_private=true&langs_count=8">
-    
-</div> -->
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="MIG-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="MIG-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MIG-SASS" height="40" width="50" src="https://i.ibb.co/Mc06nkn/sass-1-logo-png-transparent.png">
-  <img align="center" alt="MIG-TAIL" height="40" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-  <img align="center" alt="MIG-BOOT" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
-  <img align="center" alt="MIG-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MIG-NODE-JS" height="40" width="60" src="https://i.ibb.co/42QJ0XX/nodejs-1-logo-png-transparent.png">
-  <img align="center" alt="MIG-VUE" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">
-  <img align="center" alt="MIG-NPM" height="40" width="70" src="https://i.ibb.co/P9KGFCq/1974423.png"> 
-  <img align="center" alt="MIG-NPM" height="40" width="40" src="https://i.ibb.co/yB8PhGz/5847f981cef1014c0b5e48be.png">
-  <a/>
+<div align="left">
+  <img height="20" src="https://wakatime.com/badge/user/c6d698f9-2e6e-48aa-ab6d-c076a25f2458.svg"  />
 </div>
 
-<br>
-<br>
-  
-<!--   <a href="https://vaib215.github.io/Projects/vaibphone.html" rel="nofollow"> Landing Page Using Tailwind-CSS</a> -->
+###
 
-🛠️ For work and collab: migdrum@gmail.com  🖥
+<p align="left">Hello World!!</p>
 
-<!-- 📂 More Projects: https://code-camp-responsive-wd-ld9d03x7e-migsilva89.vercel.app/ -->
+###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=migsilva89" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=migsilva89" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+</div>
+
+###
