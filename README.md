@@ -4,9 +4,9 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img height="20" src="https://wakatime.com/badge/user/c6d698f9-2e6e-48aa-ab6d-c076a25f2458.svg"  />
-</div>
+</div> -->
 
 ###
 
