@@ -11,12 +11,22 @@
 ###
 
 <p align="left">Hello World!!</p>
+<p> 
+
+At the moment I am doing a Professional Full Stack course at @Flag.pt.
+I know how to work with Html, CSS, Sass, TailwindCss w/ PostCSS, Javascript, Npm packages, and I'm learning Node.Js, Express, and Vue.js.
+
+My goal is to become a Full-stack developer.
+  
+I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
+
+Questions? Feel free to connect. </p>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=migsilva89" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=migsilva89" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&include_all_commits=true&count_private=true&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=migsilva89" height="150" alt="languages graph"  />
 </div>
 
 ###
