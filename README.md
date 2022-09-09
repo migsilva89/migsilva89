@@ -12,7 +12,7 @@
 <p> 
 
 At the moment I am doing a Professional Full Stack course at @Flag.pt.
-I know how to work with Html, CSS, Sass, TailwindCss w/ PostCSS, Javascript, Npm packages, and I'm learning Node.Js, Express, and Vue.js.
+I know how to work with Html, CSS, Sass, TailwindCss, Vanilla Javascript, and I'm learning Node.Js and Vue.js.
 
 My goal is to become a Full-stack developer.
   
