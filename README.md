@@ -11,11 +11,12 @@
 <p align="left">Hello World!!</p>
 <p> 
 
-At the moment I am doing a Professional Full Stack course at @Flag.pt.
-I know how to work with Html, CSS, Sass, TailwindCss, Vanilla Javascript, and I'm learning Node.Js and Vue.js.
+Hello World!!
+
+At the moment I am doing a Professional Full Stack course at @Flag.pt. I know how to work with Html, CSS, Sass, TailwindCss, Bootstrap,Vanilla Javascript, and I'm learning Angular and NodeJs. 
 
 My goal is to become a Full-stack developer.
-  
+
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
 ###
