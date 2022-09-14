@@ -11,8 +11,6 @@
 <p align="left">Hello World!!</p>
 <p> 
 
-Hello World!!
-
 At the moment I am doing a Professional Full Stack course at @Flag.pt. I know how to work with Html, CSS, Sass, TailwindCss, Bootstrap,Vanilla Javascript, and I'm learning Angular and NodeJs. 
 
 My goal is to become a Full-stack developer.
