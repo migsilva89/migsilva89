@@ -11,7 +11,7 @@
 <p align="left">Hello World!!</p>
 <p> 
 
-At the moment I am doing a Professional Full Stack course at @Flag.pt. I know how to work with Html, CSS, Sass, TailwindCss, Bootstrap,Vanilla Javascript, and I'm learning Angular and NodeJs. 
+At the moment I am doing a Professional Full Stack course at @Flag.pt. I know how to work with Html, CSS, Sass, TailwindCss, Bootstrap,Vanilla Javascript, and I'm learning Angular, React, Vue and NodeJs. 
 
 My goal is to become a Full-stack developer.
 
@@ -38,7 +38,7 @@ I consider myself a hard worker person, who learns easily. I have a passion for 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="figma logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="figma logo"  /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
