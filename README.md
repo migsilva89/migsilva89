@@ -11,11 +11,13 @@
 <p align="left">Hello World!!</p>
 <p> 
 
-At the moment I am doing a Professional Full Stack course at @Flag.pt. I know how to work with Html, CSS, Sass, TailwindCss, Bootstrap,Vanilla Javascript, React, and I'm learning Vue, Angular and NodeJs. 
+At the moment I am doing a Professional Full Stack course at @Flag.pt. I know how to work with Html, CSS, Sass, TailwindCss, Bootstrap,Vanilla Javascript, React, and I'm learning, Php and Laravel. 
 
 My goal is to become a Full-stack developer.
 
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
+
+My GitHub: https://github.com/migsilva89
 
 ###
 
