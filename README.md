@@ -17,7 +17,6 @@ My goal is to become a Full-stack developer.
 
 I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
 
-My GitHub: https://github.com/migsilva89
 
 ###
 
