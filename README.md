@@ -11,24 +11,9 @@
 <p align="left">Hello World!!</p>
 <p> 
 
-At the moment I am doing a Professional Full Stack course at @Flag.pt. I know how to work with Html, CSS, Sass, TailwindCss, Bootstrap,Vanilla Javascript, React, and I'm learning, Php and Laravel. 
-
-My goal is to become a Full-stack developer.
-
-I consider myself a hard worker person, who learns easily. I have a passion for new things and an interest in learning.
-
-
-###
-
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=migsilva89" height="150" alt="stats graph"  /> -->
-
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?&username=migsilva89&locale=en&hide_title=true&layout=compact&count_private=true&include_all_commits=true&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div> -->
-
-
-
-###
+As a Junior Full-stack JavaScript Developer, I have been working with various web technologies such as HTML, CSS, Sass, TailwindCSS, Bootstrap, Vanilla JavaScript, React, Node.js, MongoDB, Mongoose, Gatsby, Nextjs, and RestAPI. My passion for learning and keeping up with the latest technologies has driven me to expand my knowledge and skills.
+  
+  ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -48,6 +33,21 @@ I consider myself a hard worker person, who learns easily. I have a passion for 
 </div>
 
 ###
+
+I have completed a Professional Full Stack course at Flag.pt, which has provided me with valuable hands-on experience in developing websites and applications.
+
+At the moment I am working as a JavaScript Developer at TheGoodCode, where I continue to gain valuable experience in developing and maintaining web applications. My responsibilities include collaborating with the team, writing clean and efficient code, and ensuring that projects are completed within deadlines.
+
+Skilled in collaboration and problem-solving, I am a dedicated and hardworking professional who is always eager to take on new challenges and opportunities to grow in my field. If you have any questions or would like to connect, please feel free to contact me.
+
+
+###
+
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=migsilva89" height="150" alt="stats graph"  /> -->
+
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?&username=migsilva89&locale=en&hide_title=true&layout=compact&count_private=true&include_all_commits=true&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+</div> -->
 
 
 <h3 align="left">Connect with me:</h3>
