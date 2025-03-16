@@ -11,7 +11,7 @@
 <p align="left">Hello World!!</p>
 <p> 
 
-As a Junior Full-stack JavaScript Developer, I have been working with various web technologies such as HTML, CSS, Sass, TailwindCSS, Bootstrap, Vanilla JavaScript, React, Node.js, MongoDB, Mongoose, Gatsby, Nextjs, and RestAPI. My passion for learning and keeping up with the latest technologies has driven me to expand my knowledge and skills.
+As JavaScript Developer, I have been working with various web technologies such as HTML, CSS, Sass, TailwindCSS, Bootstrap, Vanilla JavaScript, React, Node.js, MongoDB, Mongoose, Gatsby, Nextjs, and RestAPI. My passion for learning and keeping up with the latest technologies has driven me to expand my knowledge and skills.
   
   ###
 
@@ -32,11 +32,9 @@ As a Junior Full-stack JavaScript Developer, I have been working with various we
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
 </div>
 
-###
+##
 
-I have completed a Professional Full Stack course at Flag.pt, which has provided me with valuable hands-on experience in developing websites and applications.
-
-At the moment I am working as a JavaScript Developer at TheGoodCode, where I continue to gain valuable experience in developing and maintaining web applications. My responsibilities include collaborating with the team, writing clean and efficient code, and ensuring that projects are completed within deadlines.
+At the moment I am working at TheGoodCode, where I continue to gain valuable experience in developing and maintaining web applications. My responsibilities include collaborating with the team, writing clean and efficient code, and ensuring that projects are completed within deadlines.
 
 Skilled in collaboration and problem-solving, I am a dedicated and hardworking professional who is always eager to take on new challenges and opportunities to grow in my field. If you have any questions or would like to connect, please feel free to contact me.
 
